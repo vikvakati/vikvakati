@@ -4,11 +4,9 @@
 
 ***If you're interested in my work...*** [![Github](https://img.shields.io/github/followers/vikvakati?label=Follow%20Me&style=social)](https://github.com/vikvakati)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([https://vikvakati.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?logo=GoogleEarth&logoColor=&labelColor=black)]([https://vikvakati.github.io/portfolio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([https://www.linkedin.com/in/vikranth-vakati-94912a195/)
 [![Mail](https://img.shields.io/badge/Email-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:vikvakati@gmail.com)
-
-<br>
 
 # About Me
 As a computer engineering master's student with experience in software development and electrical engineering, I am passionate about exploring and implementing cutting-edge technologies in cyber-physical systems. With a particular interest in the Internet of Things (IoT), web development, and power systems, I am committed to designing and developing seamless connectivity, data exchange, and dynamic web experiences.
