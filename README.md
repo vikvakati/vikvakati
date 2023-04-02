@@ -1,8 +1,8 @@
 ### Welcome to my GitHub 👋
 
-***If you're interested in my work...*** [![Github](https://img.shields.io/github/followers/vikvakati?label=Follow%20Me&style=social)](https://github.com/vikvakati)
-
 <br>
+
+***If you're interested in my work...*** [![Github](https://img.shields.io/github/followers/vikvakati?label=Follow%20Me&style=social)](https://github.com/vikvakati)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([https://vikvakati.github.io/portfolio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([https://www.linkedin.com/in/vikranth-vakati-94912a195/)
