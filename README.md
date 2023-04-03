@@ -15,8 +15,11 @@
   - Internet of Things (IoT)
   - Web Development
   - Power Systems
+  - Robotics & Automation
  
 ***When I'm not studying or researching, you can find me tinkering with electronics or enjoying the great outdoors!***
+
+***Check out my pinned repositories to see some of my favorite projects***
 
 ## Languages and Tools:
 <p align="center"> 
