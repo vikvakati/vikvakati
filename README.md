@@ -1,4 +1,4 @@
-### Welcome to my GitHub👋 <img src="https://media0.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif?cid=ecf05e4715z5y8088qoavrjpzwey4yqrp7g933h3y8qduai2&rid=giphy.gif&ct=g" alt="Coder GIF" height="200" align="right">
+### Welcome to my GitHub <img src="https://media0.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif?cid=ecf05e4715z5y8088qoavrjpzwey4yqrp7g933h3y8qduai2&rid=giphy.gif&ct=g" alt="Coder GIF" height="200" align="right">
 
 <br>
 
@@ -11,15 +11,22 @@
 <br>
 
 ## About Me
-- I'm a computer engineering masters student passionate about exploring cutting-edge technologies in cyber-physical systems.
-  - Internet of Things (IoT)
-  - Web Development
-  - Power Systems
-  - Robotics & Automation
- 
+I'm a computer engineering masters student passionate about exploring cutting-edge technologies in cyber-physical systems.
+
+<br> 
+
 ***When I'm not studying or researching, you can find me tinkering with electronics or enjoying the great outdoors!***
 
 ***Check out my pinned repositories to see some of my favorite projects***
+
+## Specializations
+🌐 Internet of Things (IoT)
+
+💻 Web Development
+
+🔋 Power Systems
+
+🤖 Robotics & Automation
 
 ## Languages and Tools:
 <p align="center"> 
