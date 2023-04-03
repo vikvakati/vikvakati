@@ -10,7 +10,9 @@
 <br>
 
 ## About Me
-As a computer engineering master's student with experience in software development and electrical engineering, I am passionate about exploring and implementing cutting-edge technologies in cyber-physical systems. With a particular interest in the Internet of Things (IoT), web development, and power systems, I am committed to designing and developing seamless connectivity, data exchange, and dynamic web experiences. When I'm not studying or researching, you can find me tinkering with electronics or enjoying the great outdoors.
+As a computer engineering master's student with experience in software development and electrical engineering, I am passionate about exploring and implementing cutting-edge technologies in cyber-physical systems. With a particular interest in the Internet of Things (IoT), web development, and power systems, I am committed to designing and developing seamless connectivity, data exchange, and dynamic web experiences. 
+
+When I'm not studying or researching, you can find me tinkering with electronics or enjoying the great outdoors!
 
 ### Languages and Tools:
 <p align="center"> 
