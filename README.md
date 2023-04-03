@@ -1,4 +1,5 @@
 ### Welcome to my GitHub👋 <img src="https://media0.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif?cid=ecf05e4715z5y8088qoavrjpzwey4yqrp7g933h3y8qduai2&rid=giphy.gif&ct=g" alt="Coder GIF" height="200" align="right">
+
 <br>
 
 ### If you like my work... [![Github](https://img.shields.io/github/followers/vikvakati?label=Follow%20Me&style=social)](https://github.com/vikvakati) 
@@ -10,11 +11,14 @@
 <br>
 
 ## About Me
-As a computer engineering master's student with experience in software development and electrical engineering, I am passionate about exploring and implementing cutting-edge technologies in cyber-physical systems. With a particular interest in the Internet of Things (IoT), web development, and power systems, I am committed to designing and developing seamless connectivity, data exchange, and dynamic web experiences. 
+- I'm a computer engineering masters student passionate about exploring cutting-edge technologies in cyber-physical systems.
+  - Internet of Things (IoT)
+  - Web Development
+  - Power Systems
+ 
+***When I'm not studying or researching, you can find me tinkering with electronics or enjoying the great outdoors!***
 
-When I'm not studying or researching, you can find me tinkering with electronics or enjoying the great outdoors!
-
-### Languages and Tools:
+## Languages and Tools:
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
